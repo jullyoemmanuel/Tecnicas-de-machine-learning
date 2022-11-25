@@ -1,1 +1,1 @@
-# T-cnicas-de-machine-learning
+# Tecnicas-de-machine-learning
